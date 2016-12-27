@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         BaiduYunEnhancer
 // @namespace    http://tampermonkey.net/
-// @version      0.3.2
-// @description  通过修改浏览器的操作系统和（或）硬件平台（navigator.platform），破解必须使用 百度云 软件下载的限制；使用此脚本后，您可以直接使用浏览器下载，或者直接使用迅雷下载。
+// @version      0.4
+// @description  通过修改浏览器的操作系统和（或）硬件平台（navigator.platform），破解百度云/百度网盘的下载限制。
 // @author       Maoger
 // @match        https://pan.baidu.com/*
 // @match        http://pan.baidu.com/*
