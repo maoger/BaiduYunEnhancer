@@ -11,4 +11,4 @@
 
 // ==/UserScript==
 
-Object.defineProperty(navigator,'platform',{get:function(){return 'M';}});
+Object.defineProperty(navigator,'platform',{get:function(){return 'Maoger';}});
