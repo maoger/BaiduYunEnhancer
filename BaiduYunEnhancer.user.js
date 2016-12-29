@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BaiduYunEnhancer
-// @namespace    http://tampermonkey.net/
-// @version      0.4
+// @namespace    https://github.com/maoger/BaiduYunEnhancer
+// @version      0.5
 // @description  通过修改浏览器的操作系统和（或）硬件平台（navigator.platform），破解百度云/百度网盘的下载限制。
 // @author       Maoger
 // @match        https://pan.baidu.com/*
