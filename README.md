@@ -1,3 +1,5 @@
+# 提示：很遗憾，该方法已失效！
+
 # BaiduYunEnhancer
 
 ## 1、功能
